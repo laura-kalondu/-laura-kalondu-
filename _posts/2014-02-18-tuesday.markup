@@ -1,0 +1,13 @@
+---
+layout: post
+title: "My First Post!"
+date: 2014-02-18 01:30:45
+categories: kenya html whatever
+---
+<h1>This is my post!</h1>
+<p>{{page.categories}}</p>
+<div style="color:red">
+  <div style="color:blue">
+    words for a caption
+  </div>
+</div>
